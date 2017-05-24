@@ -7,3 +7,4 @@ This is a Papa's Burgeria Auto player thing, in the sense of automatic condiment
 2. Run Python program and quickly switch to the browser
 3. Enjoy the Mayo!
 4. When done or an error has occured cover the Mayo bottle, weather that be closing the browser or press Ctrl + C to stop the Python program.
+
